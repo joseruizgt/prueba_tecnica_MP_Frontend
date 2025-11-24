@@ -1,6 +1,6 @@
 
 # Frontend SICOV
-Sistema de Control de Ordenes de Pago y Vales (SICOV). Desarrollado para digitalizar el proceso del manejo de recibos, vales y ordenes de pago entre el departamento de contabilidad y los departamentos restantes de Cooperativa Cobán.
+Sistema de Control de Expedientes. Desarrollado para el ingreso de expedientes, aprobaciones y rechazos DICRI.
 
 ## 🛠 Frameworks
 - Vite - Template ReactJs
@@ -11,7 +11,7 @@ Sistema de Control de Ordenes de Pago y Vales (SICOV). Desarrollado para digital
 Clone the project
 
 ```bash
-  git clone https://github.com/joseruizgt/SICOV-FRONTEND.git
+  git clone https://github.com/joseruizgt/prueba_tecnica_MP_Frontend
 ```
 
 Go to the project directory
