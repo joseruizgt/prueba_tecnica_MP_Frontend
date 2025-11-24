@@ -1,5 +1,5 @@
 
-# Frontend SICOV
+# Frontend DICRI
 Sistema de Control de Expedientes. Desarrollado para el ingreso de expedientes, aprobaciones y rechazos DICRI.
 
 ## 🛠 Frameworks
